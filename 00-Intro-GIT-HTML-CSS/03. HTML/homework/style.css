@@ -1,0 +1,19 @@
+
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(182, 192, 138);
+    padding: 50px;
+    border-style: double;
+    border-width: 10px;
+    border-color: olivedrab;
+}
+
+#spanId {
+
+    font-size: 18px;
+    margin: 50px;
+}
+
+
