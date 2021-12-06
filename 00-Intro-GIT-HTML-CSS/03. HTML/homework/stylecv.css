@@ -1,0 +1,22 @@
+html{
+    background-color: rgb(255, 255, 255);
+}
+.liClass {
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+.divClass {
+    margin: 10px;
+}
+
+
+
+body{
+    
+    width: 700px;
+    border-style: solid;
+    border-color: rgb(228, 182, 112);
+    margin: auto;
+
+}

@@ -1,6 +1,7 @@
 
 
 #thirdDiv{
+
     height: 600px;
     width: 500px;
     background-color: rgb(182, 192, 138);
@@ -8,12 +9,30 @@
     border-style: double;
     border-width: 10px;
     border-color: olivedrab;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+
 }
 
 #spanId {
 
     font-size: 18px;
     margin: 50px;
+    
+}
+
+.divClass {
+text-align: center;
+display: flex;
+flex-direction: column;
+align-content: space-between;
+}
+
+html {
+    background-image: url(https://bhf-cdn.azureedge.net/bhf-blob-prod/0036150_angle-grey-geometric-wallpaper_600.jpeg);
 }
 
 
